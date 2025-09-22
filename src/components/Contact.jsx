@@ -79,19 +79,7 @@ export default function Contact() {
           </form>
         </div>
 
-        <div className="mt-8 text-gray-400 text-center md:text-left">
-          <p>
-            Or reach me directly at:{" "}
-            <a
-              href="https://wa.me/919876543210"
-              target="_blank"
-              rel="noreferrer"
-              className="text-blue-400 hover:underline"
-            >
-              +91 99999 99999
-            </a>
-          </p>
-        </div>
+        
       </div>
 
 
