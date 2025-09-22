@@ -27,7 +27,7 @@ export const PROJECTS = [
     title: "Portfolio Website",
     desc: "Personal portfolio with React, Tailwind, and GSAP animations to showcase projects and skills.",
     tech: ["React", "Tailwind", "GSAP", "Vite"],
-    link: "https://your-portfolio.com",
+    link: "https://self-portfolio-khaki.vercel.app/",
     repo: "https://github.com/username/portfolio"
   },
   {
