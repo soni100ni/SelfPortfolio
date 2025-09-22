@@ -93,8 +93,8 @@ export default function Experience() {
                     ))}
                   </ul>
 
-                  {/* Timeline dot */}
-                  <div className="hidden md:block absolute top-6 left-1/2 w-4 h-4 bg-blue-500 rounded-full transform -translate-x-1/2"></div>
+                  
+                  
                 </div>
               </div>
             </Tilt>
