@@ -28,19 +28,19 @@ export const PROJECTS = [
     desc: "Personal portfolio with React, Tailwind, and GSAP animations to showcase projects and skills.",
     tech: ["React", "Tailwind", "GSAP", "Vite"],
     link: "https://self-portfolio-khaki.vercel.app/",
-    repo: "https://github.com/username/portfolio"
+    repo: "https://github.com/soni100ni/SelfPortfolio"
   },
   {
     title: "E-Commerce App",
     desc: "Full-stack app with product catalog, cart, payment integration, and admin dashboard.",
-    tech: ["React", "Spring Boot", "MongoDB", "Stripe"],
+    tech: ["React", "Spring Boot", "Sql", "Stripe"],
     link: "https://your-ecommerce.com",
     repo: "https://github.com/username/ecommerce"
   },
   {
     title: "Blog Application",
     desc: "A full-stack blog platform with authentication, CRUD posts, and rich-text editor.",
-    tech: ["Next.js", "React", "Node.js", "MongoDB", "Tailwind"],
+    tech: ["Spring Boot", "React", "MongoDB", "Tailwind"],
     link: "https://your-blog.com",
     repo: "https://github.com/username/blog-app"
   },
@@ -54,14 +54,14 @@ export const PROJECTS = [
   {
     title: "Chat Application",
     desc: "Real-time chat application with rooms, user presence, and message notifications.",
-    tech: ["React", "Node.js", "Socket.io", "Express", "MongoDB"],
-    link: "https://your-chatapp.com",
-    repo: "https://github.com/username/chat-app"
+    tech: ["React", "SpringBoot", "Socket.io", "MongoDB"],
+    link: "https://chat-app-frontend-ten-cyan.vercel.app/",
+    repo: "https://github.com/soni100ni/chat-app-frontend"
   },
   {
     title: "News Aggregator",
     desc: "Aggregates news articles from multiple APIs with search, categories, and bookmarking.",
-    tech: ["Next.js", "React", "Tailwind", "Axios", "News API"],
+    tech: ["Spring Boot", "React", "Tailwind", "Axios", "News API"],
     link: "https://your-newsapp.com",
     repo: "https://github.com/username/news-aggregator"
   }
